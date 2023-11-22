@@ -1,5 +1,6 @@
 # 2020-Gesture-control
 
+https://www.youtube.com/watch?v=y3VIeYEoiQM&t=1s
 
 
 ![image](https://github.com/kim6419/2020-Gesture-control/assets/66951036/6260a878-3a3f-4437-a39f-d3dc372ba335)
